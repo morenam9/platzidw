@@ -1,0 +1,39 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    margin: 25px;
+    font-size: 35px;
+}
+.contenedor-lista{
+    width: 350px;
+    height: 440px;
+    background-color: #fad975;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+img{
+    transform: rotate(-20deg);
+    -webkit-transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+    -ms-transform: rotate(-20deg);
+    -o-transform: rotate(-20deg);
+    margin-left: 115px;
+    margin-top: -50px;
+}
+
+ul{
+    margin-top: -5px;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+    line-height: 1.8em;
+    margin-left: 5px;
+    letter-spacing: 6px;
+}
